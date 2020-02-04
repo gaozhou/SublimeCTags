@@ -1,0 +1,2 @@
+# SublimeCTags
+ctag-auto-run
